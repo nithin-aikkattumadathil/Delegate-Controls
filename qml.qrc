@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>back2.jpg</file>
+        <file>crowdclapping.wav</file>
+        <file>nature.png</file>
+        <file>happy.jpg</file>
+        <file>applause.jpg</file>
+        <file>trophy.png</file>
+    </qresource>
+</RCC>
